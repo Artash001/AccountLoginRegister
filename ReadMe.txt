@@ -1,0 +1,1 @@
+Please change MSSQL database name in appsettings.json from "ConnectionString" "Server=Your DB Name;
